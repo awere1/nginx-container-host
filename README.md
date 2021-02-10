@@ -1,3 +1,1 @@
-awere1 bginx hosting assignment
-awere1 bginx hosting assignment
-awere nginx hosting assignment
+awere1 nginx assignment
